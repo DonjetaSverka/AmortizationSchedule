@@ -23,7 +23,7 @@ public class MortgageView extends JPanel {
 
         JFrame myFrame = new JFrame();
         myFrame.setSize(width, height);
-        myFrame.setTitle("Hipoteka");
+        myFrame.setTitle("TABELA E AMORTIZIMIT");
         myFrame.add(this);
         myFrame.setResizable(false);
         myFrame.setVisible(true);
